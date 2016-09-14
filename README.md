@@ -1,0 +1,1 @@
+"# Aubio32BitCompiledWindows" 
